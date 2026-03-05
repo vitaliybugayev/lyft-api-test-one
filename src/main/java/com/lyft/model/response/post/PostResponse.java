@@ -2,8 +2,6 @@ package com.lyft.model.response.post;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.util.List;
-
 public record PostResponse(
         //This is not List<Args>
         //Jackson (the library for JSON mapping) tried to find an array in the response,
