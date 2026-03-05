@@ -5,7 +5,7 @@ This is a demo API test framework built during a technical interview.
 ## Tech stack
 - Java
 - Maven
-- JUnit 5
+- TestNG
 - Rest Assured
 - Allure
 
